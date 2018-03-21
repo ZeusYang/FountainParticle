@@ -1,0 +1,12 @@
+﻿  Fountain.cpp
+Fountain.cpp(151): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+Fountain.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+Fountain.cpp(170): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  floor.cpp
+  正在生成代码
+  30 of 425 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FountainParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FountainParticle\x64\Release\FountainParticle.exe
+  FountainParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FountainParticle\x64\Release\FountainParticle.pdb (Full PDB)

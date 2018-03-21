@@ -1,0 +1,6 @@
+﻿  Fountain.cpp
+c:\users\yang\desktop\opengl-demo\fountainparticle\fountainparticle\fountain.cpp(151): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\fountainparticle\fountainparticle\fountain.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yang\desktop\opengl-demo\fountainparticle\fountainparticle\fountain.cpp(170): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  FountainParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FountainParticle\x64\Debug\FountainParticle.exe
+  FountainParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FountainParticle\x64\Debug\FountainParticle.pdb (Full PDB)
